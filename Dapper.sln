@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper", "Dapper\Dapper.csproj", "{5519DB46-81F3-4513-A1CA-20B219020039}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORM and Dapper", "Dapper\ORM and Dapper.csproj", "{5519DB46-81F3-4513-A1CA-20B219020039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
